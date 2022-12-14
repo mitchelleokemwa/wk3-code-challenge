@@ -4,7 +4,7 @@ const url1 = 'http://localhost:3000/films/1'
 // all url
 let url = 'http://localhost:3000/films'
 
-document.addEventListener('DOMContentLoaded', ()=>{
+document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementsByClassName('nav-item')[0].remove()
 
@@ -106,5 +106,4 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
         fetchAllMovies(url)
         fetchData1()
-
 })
