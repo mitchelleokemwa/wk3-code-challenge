@@ -5,6 +5,7 @@ It entails on getting data from JSON server and through manipulation of the DOM 
 # Getting started
 -A computer (windows 7+, Linux, Mac OS)-node js 16.18.1
 
+[live link ](https://mitchelleokemwa.github.io/wk3-code-challenge/)
 # Installation 
 To run the site you need to install json server - npm install -g json-server.
 

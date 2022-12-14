@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // click to dsplay movie 
-    const displayMovieDetails = () =>{
+    const displayMovieDetails = () => {
         let children = navBar.children
        
 
