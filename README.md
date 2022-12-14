@@ -10,9 +10,11 @@ It entails on getting data from JSON server and through manipulation of the DOM 
 To run the site you need to install json server - npm install -g json-server.
 
 # Running the application
--Start the JSON  server:json-server --watch database.json.
--Open the livesrver to display the website using Html.
--
+
+Start the JSON  server:
+        json-server --watch database.json.
+Open the livesrver to display the website using Html.
+
 # Authors
 This project was contributed to by:
 [Mitchelle Okemwa](https://github.com/mitchelleokemwa)
