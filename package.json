@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "wk3-code-challenge",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchelleokemwa/wk3-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchelleokemwa/wk3-code-challenge/issues"
+  },
+  "homepage": "https://github.com/mitchelleokemwa/wk3-code-challenge#readme"
+}
