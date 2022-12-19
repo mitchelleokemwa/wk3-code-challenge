@@ -12,7 +12,9 @@ To run the site you need to install json server - npm install -g json-server.
 # Running the application
 
 Start the JSON  server:
+
         json-server --watch database.json.
+
 Open the livesrver to display the website using Html.
 
 # Authors
